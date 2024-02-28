@@ -1,0 +1,184 @@
+id: ada02340ca7e473f8c9a2a670d77cd67
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  00a8a61b5fa54869a73ed6e873775b4a:
+    span:
+      start: 0
+      end: 714
+    imgnum: 1
+    reference: I3CN18150001.tif
+  12553b4ae4d24bdda84e34e341208885:
+    span:
+      start: 715
+      end: 902
+    imgnum: 3
+    reference: I3CN18150003.jpg
+  02c12f6a08bc45dab85842854b07692d:
+    span:
+      start: 903
+      end: 1251
+    imgnum: 4
+    reference: I3CN18150004.jpg
+  9b1390ec873445f2ba6f4001927e207f:
+    span:
+      start: 1252
+      end: 1721
+    imgnum: 5
+    reference: I3CN18150005.jpg
+  23fcd9c30a4a4139a164a22b21b8bef9:
+    span:
+      start: 1722
+      end: 2323
+    imgnum: 6
+    reference: I3CN18150006.jpg
+  5bdfb13ecd864944be2accbfb5296cf7:
+    span:
+      start: 2324
+      end: 3002
+    imgnum: 7
+    reference: I3CN18150007.jpg
+  2b85b9d33554436cb6cb689c4ba3fc46:
+    span:
+      start: 3003
+      end: 3766
+    imgnum: 8
+    reference: I3CN18150008.jpg
+  1336cb640bab4416909b7e6ee5a3ee1c:
+    span:
+      start: 3767
+      end: 4526
+    imgnum: 9
+    reference: I3CN18150009.jpg
+  ebcb2b1a87ae484b952c10bbb2eab6e7:
+    span:
+      start: 4527
+      end: 5165
+    imgnum: 10
+    reference: I3CN18150010.jpg
+  2add44e826794d148ff876782f11d86b:
+    span:
+      start: 5166
+      end: 5843
+    imgnum: 11
+    reference: I3CN18150011.jpg
+  0b9ce87a0b5a4b35a9f6900858dee6e1:
+    span:
+      start: 5844
+      end: 6461
+    imgnum: 12
+    reference: I3CN18150012.jpg
+  e422d9995cd14e2f98f502ba3fde9c68:
+    span:
+      start: 6462
+      end: 7036
+    imgnum: 13
+    reference: I3CN18150013.jpg
+  2f8f6330614644fe834d5745c5ce2a78:
+    span:
+      start: 7037
+      end: 7700
+    imgnum: 14
+    reference: I3CN18150014.jpg
+  16825c61844a4de1a5c4ea713f9f3f1b:
+    span:
+      start: 7701
+      end: 8384
+    imgnum: 15
+    reference: I3CN18150015.jpg
+  dd08a2d981fa48b28430e8c92e8e3c54:
+    span:
+      start: 8385
+      end: 9086
+    imgnum: 16
+    reference: I3CN18150016.jpg
+  0e8fb24d9485422cbccbcd3fd803b017:
+    span:
+      start: 9087
+      end: 9776
+    imgnum: 17
+    reference: I3CN18150017.jpg
+  236c5342264a4efa8e1d54fd39bdb4c6:
+    span:
+      start: 9777
+      end: 10498
+    imgnum: 18
+    reference: I3CN18150018.jpg
+  b469303ccee346bc807093ab8683478b:
+    span:
+      start: 10499
+      end: 11268
+    imgnum: 19
+    reference: I3CN18150019.jpg
+  3ead8caa5c014ead81637b8193b389e6:
+    span:
+      start: 11269
+      end: 12018
+    imgnum: 20
+    reference: I3CN18150020.jpg
+  4f97c98514ee41a485dacb6a7cc69b42:
+    span:
+      start: 12019
+      end: 12724
+    imgnum: 21
+    reference: I3CN18150021.jpg
+  1f553e9e4369486880e07e0331d46cce:
+    span:
+      start: 12725
+      end: 13334
+    imgnum: 22
+    reference: I3CN18150022.jpg
+  0544e0df3bdc4a658479dce561e1f2e9:
+    span:
+      start: 13335
+      end: 13995
+    imgnum: 23
+    reference: I3CN18150023.jpg
+  7748f864679144808c92e82ea87aba00:
+    span:
+      start: 13996
+      end: 14726
+    imgnum: 24
+    reference: I3CN18150024.jpg
+  7c57d59619824f5eb3d20c73e203ca85:
+    span:
+      start: 14727
+      end: 15417
+    imgnum: 25
+    reference: I3CN18150025.jpg
+  902a354a2c754ae7a2a78fc8c7be7085:
+    span:
+      start: 15418
+      end: 16132
+    imgnum: 26
+    reference: I3CN18150026.jpg
+  1de04bc83f85408da5e40814316e20fe:
+    span:
+      start: 16133
+      end: 16889
+    imgnum: 27
+    reference: I3CN18150027.jpg
+  20dbcf18d4804158bfbad4ec84674056:
+    span:
+      start: 16890
+      end: 17584
+    imgnum: 28
+    reference: I3CN18150028.jpg
+  53156d36031d4607a2f5fbc224ee7c79:
+    span:
+      start: 17585
+      end: 18349
+    imgnum: 29
+    reference: I3CN18150029.jpg
+  b41caafe00364d6d85f38a8f31699274:
+    span:
+      start: 18350
+      end: 19021
+    imgnum: 30
+    reference: I3CN18150030.jpg
+  796c37d8e9e64013982cbb8b46422500:
+    span:
+      start: 19022
+      end: 19432
+    imgnum: 31
+    reference: I3CN18150031.jpg
